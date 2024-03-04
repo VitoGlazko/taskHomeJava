@@ -1,3 +1,4 @@
+package java1Seminar;
 import java.util.Scanner;
 public class taskHome1 {
     public static void main(String[] args) {

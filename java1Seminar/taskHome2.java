@@ -1,3 +1,4 @@
+package java1Seminar;
 public class taskHome2 {
     public static void main(String[] args) {
         int i = 0;
