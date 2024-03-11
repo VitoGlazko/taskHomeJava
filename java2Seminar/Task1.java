@@ -20,8 +20,4 @@ public class Task1 {
         }
         return str.toString();
     } 
-
-
-
-  
 }
